@@ -1,0 +1,6 @@
+#ifndef BIGINTEGER_GLOBAL_H
+#define BIGINTEGER_GLOBAL_H
+
+#define DEBUG
+
+#endif //BIGINTEGER_GLOBAL_H
